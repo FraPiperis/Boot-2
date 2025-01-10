@@ -1,0 +1,24 @@
+.Navigazione > img {
+    width: 200px;
+    height: 200px;
+  }
+.Nav {
+   color: rgb(183, 79, 24);
+  }
+.Jumb {
+    text-align: center;
+    color: rgb(183, 79, 24);
+    background-color: rgba(222, 136, 56, 0.256);
+    padding: 50px;
+   }
+.Jumb > #Bottone {
+    background-color:rgb(183, 79, 24);
+   }
+h3 {
+    padding: 40px;
+    text-align: center;
+   }
+.card {
+    text-align: center;
+    margin: 5px;
+   }
