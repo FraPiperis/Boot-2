@@ -29,3 +29,11 @@ footer  {
 footer > h5  {
   color:rgb(183, 79, 24);
  }
+.ImgOff > img {
+  width: 800px;
+  height: 700px;
+  padding: 60px; 
+ }
+.DescOff {
+  padding: 60px; 
+ }
