@@ -4098,7 +4098,7 @@ textarea.form-control-lg {
   .navbar-expand-sm .navbar-nav-scroll {
     overflow: visible;
   }
-  .navbar-expand-sm .navbar-collapse {
+  .navbar-expand-sm .navbar- {
     display: flex !important;
     flex-basis: auto;
   }
